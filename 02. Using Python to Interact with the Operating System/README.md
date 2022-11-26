@@ -25,5 +25,5 @@ We’ll also explain how to set up your own developer environment in your machin
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/verify/MKMCP3MT72LQ"><img src="https://user-images.githubusercontent.com/96287101/204100227-aa3cd6a4-5ac1-4b1c-89cd-06fae449bb2f.jpg" width="1000" height="430"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/MKMCP3MT72LQ"><img src="https://user-images.githubusercontent.com/96287101/204100227-aa3cd6a4-5ac1-4b1c-89cd-06fae449bb2f.jpg" height="430"></a>
 </p>
